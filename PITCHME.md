@@ -7,7 +7,7 @@
 - 성격: 긍정적
 ---
 # 박준호
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/image.png)
 ---
 # 박준호
 - 연말 계획: 여자친구와 맛있는 것 먹고 쉬기
@@ -18,7 +18,7 @@
 - 성격: 침착함
 ---
 # 차진홍
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed%20(1).jpg)
 ---
 # 차진홍
 - 연말 계획: 가족과 함께 설악산 여행
@@ -29,7 +29,7 @@
 - 성격: 차분함
 ---
 # 박수빈
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181227_152947.jpg)
 ---
 # 박수빈
 - 연말 계획: 데이트, 집에서 쉬기
@@ -40,7 +40,7 @@
 - 성격: 온순함
 ---
 # 김성우
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/BCDC9001-93AE-435E-B987-4AD64F6C0D17.jpeg)
 ---
 # 김성우
 - 연말 계획: 부모님과 함께 지내기
@@ -51,7 +51,7 @@
 - 성격: 중요한 건 대충하고, 사소한 건 목숨 걸기
 ---
 # 김택환
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed.jpg)
 ---
 # 김택환
 - 연말 계획: 방에 친구들 초대하기
@@ -62,7 +62,7 @@
 - 성격: 시니컬하면서도 부드럽다 (츤데레의 표본)
 ---
 # 이재현
-## 사진
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181222_224404.jpg)
 ---
 # 이재현
 - 연말 계획: 친구들 만나서 술마시기
