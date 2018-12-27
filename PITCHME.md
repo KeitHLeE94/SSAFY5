@@ -18,7 +18,7 @@
 - 성격: 침착함
 ---
 # 차진홍
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed%20(1).jpg?raw=true)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unname.jpg?raw=true)
 ---
 # 차진홍
 - 연말 계획: 가족과 함께 설악산 여행
