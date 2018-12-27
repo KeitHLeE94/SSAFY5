@@ -18,7 +18,7 @@
 - 성격: 침착함
 ---
 # 차진홍
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unname.jpg?raw=true)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnames.jpg?raw=true)
 ---
 # 차진홍
 - 연말 계획: 가족과 함께 설악산 여행
@@ -51,7 +51,7 @@
 - 성격: 중요한 건 대충하고, 사소한 건 목숨 걸기
 ---
 # 김택환
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed.jpg?raw=true)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamedd.jpg?raw=true)
 ---
 # 김택환
 - 연말 계획: 방에 친구들 초대하기
