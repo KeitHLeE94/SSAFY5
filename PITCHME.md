@@ -7,7 +7,7 @@
 - 성격: 긍정적
 ---
 # 박준호
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/image.png)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/image.png?raw=true)
 ---
 # 박준호
 - 연말 계획: 여자친구와 맛있는 것 먹고 쉬기
