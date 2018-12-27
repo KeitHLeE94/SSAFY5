@@ -51,7 +51,7 @@
 - 성격: 중요한 건 대충하고, 사소한 건 목숨 걸기
 ---
 # 김택환
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed.jpg)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed.jpg?raw=true)
 ---
 # 김택환
 - 연말 계획: 방에 친구들 초대하기
@@ -62,7 +62,7 @@
 - 성격: 시니컬하면서도 부드럽다 (츤데레의 표본)
 ---
 # 이재현
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181222_224404.jpg)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181222_224404.jpg?raw=true)
 ---
 # 이재현
 - 연말 계획: 친구들 만나서 술마시기
