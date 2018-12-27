@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "싸파이오"
 description              : "서울캠퍼스 5반 싸파이오입니다."
 url                      : "https://KeitHLeE94.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "SSAFY5"
 repository               : "SSAFY5"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
