@@ -18,7 +18,7 @@
 - 성격: 침착함
 ---
 # 차진홍
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed%20(1).jpg)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/unnamed%20(1).jpg?raw=true)
 ---
 # 차진홍
 - 연말 계획: 가족과 함께 설악산 여행
@@ -29,7 +29,7 @@
 - 성격: 차분함
 ---
 # 박수빈
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181227_152947.jpg)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181227_152947.jpg?raw=true)
 ---
 # 박수빈
 - 연말 계획: 데이트, 집에서 쉬기
@@ -40,7 +40,7 @@
 - 성격: 온순함
 ---
 # 김성우
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/BCDC9001-93AE-435E-B987-4AD64F6C0D17.jpeg)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/BCDC9001-93AE-435E-B987-4AD64F6C0D17.jpeg?raw=true)
 ---
 # 김성우
 - 연말 계획: 부모님과 함께 지내기
