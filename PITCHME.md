@@ -40,7 +40,7 @@
 - 성격: 온순함
 ---
 # 김성우
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/BCDC9001-93AE-435E-B987-4AD64F6C0D17.jpeg?raw=true)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/noname.png?raw=true)
 ---
 # 김성우
 - 연말 계획: 부모님과 함께 지내기
@@ -62,7 +62,7 @@
 - 성격: 시니컬하면서도 부드럽다 (츤데레의 표본)
 ---
 # 이재현
-![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181222_224404.jpg?raw=true)
+![사진](https://github.com/KeitHLeE94/SSAFY5/blob/master/imgs/20181222_224403.jpg?raw=true)
 ---
 # 이재현
 - 연말 계획: 친구들 만나서 술마시기
